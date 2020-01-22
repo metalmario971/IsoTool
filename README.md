@@ -2,9 +2,7 @@
 
 IsoTool is an open source Videogame Tool that makes 2D isometric sprite sheets from 3D models (similar to sprites from the Diablo I and II games). It uses Blender under the hood to generate sprites in various orientations, and a custom texture packer to seal the sprites into a single, fast sprite sheet.  This project compiles and runs on Microsoft Windows.
 
-Iso tool is fully customizable, allowing you to specify the number of model directions to rotate the sprite.  It also provides an API to let you load the sprite sheet into your application.  The tool also allows many other features not mentioned.
-
-Iso Tool also allows you to batch process models for quicker sprite creation.
+Iso tool is fully customizable, allowing you to specify the number of model directions to rotate the sprite.  It also provides an API to let you load the sprite sheet into your application.  The tool lso allows you to batch process models for quicker sprite creation.
 
 ## Installation
 
